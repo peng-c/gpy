@@ -5,12 +5,12 @@ import RPi.GPIO as GPIO
 import base64
 import time
 from mlx90614 import MLX90614
-import paho.mqtt.client as mqtt
+#import paho.mqtt.client as mqtt
 #import time
-import hashlib
-import hmac
-import random
-import json
+#import hashlib
+#import hmac
+#import random
+#import json
 #import numpy as np
 #这个就是我们在阿里云注册产品和设备时的三元组啦
 #把我们自己对应的三元组填进去即可
